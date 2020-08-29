@@ -5,7 +5,7 @@ This application involves the basic signup/login with MySQL, Node, Express and S
 1. If the user sign up, then the user is logged into the mainpage along with logout option.
 2. If already an existing user then, login with email address and password and redirected to the main page.
 
-## User Story 
+### User Story 
 
 As a user I can login to the website, so that I can use their service
 In order to use their service, for NEW USER I need to SIGN UP and for ALREADY EXISTING USER I need to LOGIN.
@@ -48,7 +48,7 @@ We are creating a table in Models -> User.js file using Sequelize. You can see a
 
 ### Link for Project Explanation
 
-Link for Project Explanation : https://docs.google.com/document/d/1u0igkLRe6BeWs6wHkfHAEjA_0cLG74rdBVr_1Lm2hgI/edit?usp=sharing
+https://docs.google.com/document/d/1u0igkLRe6BeWs6wHkfHAEjA_0cLG74rdBVr_1Lm2hgI/edit?usp=sharing
 
 ### Questions
 
